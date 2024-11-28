@@ -5,7 +5,7 @@
 # <h2 align=center> Nombre del Proyecto:</h2>
 <h2 align=center>Análisis del Sector Telecomunicaciones en Argentina</h2>
 
-![Telec1](Img/telec_1.jpg)
+![Telec1](Img/telec_3.png)
 
 ## ```Introducción```
 
